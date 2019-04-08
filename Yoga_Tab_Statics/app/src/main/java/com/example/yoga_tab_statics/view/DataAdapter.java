@@ -1,5 +1,6 @@
 package com.example.yoga_tab_statics.view;
 
+import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -20,7 +21,7 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.ViewHolder> {
 
     private LayoutInflater inflater;
     private List<Workout> workouts;
-    public DataAdapter(MainActivity mainActivity, List<Workout> workouts) {
+    public DataAdapter(Context context, List<Workout> workouts) {
         this.workouts = workouts;
         this.inflater = LayoutInflater.from(context);
     }

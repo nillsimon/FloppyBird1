@@ -10,7 +10,7 @@ public class Workout {
     private int imageResourceId;
 
 
-    public  Workout[] workouts = {
+    public static final Workout[] workouts = {
             new Workout(SlimApp.context.getString(R.string.trikonasana_name),
                     SlimApp.context.getString(R.string.trikonasanaList),
                     SlimApp.context.getString(R.string.trikonasana),
@@ -62,7 +62,7 @@ public class Workout {
 
     };
 
-    public Workout(String name, String descriptionList, String description, int imageResourceId) {
+    private Workout(String name, String descriptionList, String description, int imageResourceId) {
         this.name = name;
         this.descriptionList = descriptionList;;
         this.description = description;
@@ -81,5 +81,5 @@ public class Workout {
     public int getImageResourceId() {
         return imageResourceId;
     }
-
 }
+
