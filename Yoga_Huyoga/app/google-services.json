@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "325276077257",
+    "firebase_url": "https://yogahuyoga.firebaseio.com",
+    "project_id": "yogahuyoga",
+    "storage_bucket": "yogahuyoga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325276077257:android:ceb804354e013f86",
+        "android_client_info": {
+          "package_name": "com.example.yoga_huyoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325276077257-0aq03vneeeug5u2d3ftojctss9a5i4te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yoga_huyoga",
+            "certificate_hash": "95563bb0884e9de55c8e6eb1fde2fe3663652fdf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6iQ1s1YSuphtRm6XcboYc39Nr65PSvDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325276077257-e5b4kclo9mbs7omvmo3elf79aub26803.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

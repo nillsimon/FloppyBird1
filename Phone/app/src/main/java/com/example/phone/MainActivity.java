@@ -22,26 +22,26 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setInitialData() {
-        phones.add(new Phone ("Huawei P10", "Huawei", R.drawable.virabxadrasana));
-        phones.add(new Phone ("Elite z3", "HP", R.drawable.trikonasana));
-        phones.add(new Phone ("Galaxy S8", "Samsung", R.drawable.virabxadrasana));
-        phones.add(new Phone ("LG G 5", "LG", R.drawable.shavasana));
-        phones.add(new Phone ("Huawei P10", "Huawei", R.drawable.bhekasana));
-        phones.add(new Phone ("Elite z3", "HP", R.drawable.trikonasana));
-        phones.add(new Phone ("Galaxy S8", "Samsung", R.drawable.virabxadrasana));
-        phones.add(new Phone ("LG G 5", "LG", R.drawable.shavasana));
-        phones.add(new Phone ("Huawei P10", "Huawei", R.drawable.gomukxasana));
-        phones.add(new Phone ("Elite z3", "HP", R.drawable.trikonasana));
-        phones.add(new Phone ("Galaxy S8", "Samsung", R.drawable.virabxadrasana));
-        phones.add(new Phone ("LG G 5", "LG", R.drawable.bxudzhangasana));
-        phones.add(new Phone ("Huawei P10", "Huawei", R.drawable.bhekasana));
-        phones.add(new Phone ("Elite z3", "HP", R.drawable.trikonasana));
-        phones.add(new Phone ("Galaxy S8", "Samsung", R.drawable.virabxadrasana));
-        phones.add(new Phone ("LG G 5", "LG", R.drawable.shavasana));
-        phones.add(new Phone ("Huawei P10", "Huawei", R.drawable.bxudzhangasana));
-        phones.add(new Phone ("Elite z3", "HP", R.drawable.trikonasana));
-        phones.add(new Phone ("Galaxy S8", "Samsung", R.drawable.virabxadrasana));
-        phones.add(new Phone ("LG G 5", "LG", R.drawable.bxudzhangasana));
+        phones.add(new Phone ("Huawei P10", "Huawei", R.raw.virabxadrasana));
+        phones.add(new Phone ("Elite z3", "HP", R.raw.trikonasana));
+        phones.add(new Phone ("Galaxy S8", "Samsung", R.raw.virabxadrasana));
+        phones.add(new Phone ("LG G 5", "LG", R.raw.shavasana));
+        phones.add(new Phone ("Huawei P10", "Huawei", R.raw.bhekasana));
+        phones.add(new Phone ("Elite z3", "HP", R.raw.trikonasana));
+        phones.add(new Phone ("Galaxy S8", "Samsung", R.raw.virabxadrasana));
+        phones.add(new Phone ("LG G 5", "LG", R.raw.shavasana));
+        phones.add(new Phone ("Huawei P10", "Huawei", R.raw.gomukxasana));
+        phones.add(new Phone ("Elite z3", "HP", R.raw.trikonasana));
+        phones.add(new Phone ("Galaxy S8", "Samsung", R.raw.virabxadrasana));
+        phones.add(new Phone ("LG G 5", "LG", R.raw.trikonasana));
+        phones.add(new Phone ("Huawei P10", "Huawei", R.raw.bhekasana));
+        phones.add(new Phone ("Elite z3", "HP", R.raw.trikonasana));
+        phones.add(new Phone ("Galaxy S8", "Samsung", R.raw.virabxadrasana));
+        phones.add(new Phone ("LG G 5", "LG", R.raw.shavasana));
+        phones.add(new Phone ("Huawei P10", "Huawei", R.raw.trikonasana));
+        phones.add(new Phone ("Elite z3", "HP", R.raw.trikonasana));
+        phones.add(new Phone ("Galaxy S8", "Samsung", R.raw.virabxadrasana));
+        phones.add(new Phone ("LG G 5", "LG", R.raw.trikonasana));
 
 
 
