@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805540141011",
+    "firebase_url": "https://chat-d28fc.firebaseio.com",
+    "project_id": "chat-d28fc",
+    "storage_bucket": "chat-d28fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805540141011:android:6a0acca82f57d8ebb98126",
+        "android_client_info": {
+          "package_name": "com.simon.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805540141011-gn0avm3uef4vgpi5b7ppc70eii4l08hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOv8gx6fhKhR8AxMXeuTQDHZsdgx1gX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805540141011-gn0avm3uef4vgpi5b7ppc70eii4l08hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
