@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165211384084",
+    "firebase_url": "https://fir-insertdata-android.firebaseio.com",
+    "project_id": "fir-insertdata-android",
+    "storage_bucket": "fir-insertdata-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165211384084:android:9258d5996c43e4bf003a01",
+        "android_client_info": {
+          "package_name": "com.android_examples.firebaseinsertdata_android_examplescom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165211384084-bi7bog9sljmgb7qplcipggmk1rcibtrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9F5zDrSZhVe5L3cqfz45SwQ6jmZ89h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165211384084-bi7bog9sljmgb7qplcipggmk1rcibtrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
